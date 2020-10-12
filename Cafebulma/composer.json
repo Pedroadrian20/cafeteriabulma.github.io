@@ -1,0 +1,12 @@
+{
+    "name": "pedro/cafebulma",
+    "description": "cafeteria con bulma",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Pedro",
+            "email": "am0166653@gmail.com"
+        }
+    ],
+    "require": {}
+}
